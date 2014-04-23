@@ -7,19 +7,19 @@ Just download the [SoundcloudControl.alfredworkflow](https://github.com/benjamin
 ## Usage
 When installed correctly SoundcloudControl offers some commands to control an opened soundcloud.com tab in Google Chrome:
 
-### sc play
+### :arrow_forward: `sc play`
 Plays the first song in the currently opened soundcloud tab. This could be your stream, a playlist or anything else. 
 
-### sc pause
+### :hash: `sc pause`
 Stops the playback of the current song
 
-### sc next
+### :fast_forward: `sc next`
 Plays the next song in the currently opened soundcloud tab
 
-### sc prev
+### :rewind: `sc prev`
 Plays the previous song in the currently opened soundcloud tab
 
-### sc like 
+### :heart: `sc like`
 Likes the current song
 
 ## Contributions
